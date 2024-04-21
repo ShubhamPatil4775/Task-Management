@@ -1,1 +1,2 @@
 # Task-Management
+This project is Agile project management system built with Java ,Spring Boot and Angular, incorporating Kanban board functionality, JWT authentication, and MySQL/MongoDB databases. It enhances team collaboration and productivity through efficient workflow management and secure access control.git 
